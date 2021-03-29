@@ -1,9 +1,10 @@
 import React from 'react'
+import {MoviesList} from './components/MoviesList'
 
 export const App = () => {
   return (
     <div>
-      Find me in src/app.js!
+      <MoviesList/>
     </div>
   )
 }
