@@ -22,6 +22,10 @@ h2 {
   font-weight: 400;
 }
 
+p {
+  color: white;
+}
+
 .all-movies {
   display: flex;
   flex-direction: row;
